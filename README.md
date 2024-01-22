@@ -5,4 +5,4 @@ Bridgit Graddy
 
 Major: Electrical Engineering
 
-Intrest: Space, Technoogly, Anime, and Games
+Intrest: Space, Technogly, Anime, and Games
