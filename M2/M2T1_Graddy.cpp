@@ -15,16 +15,18 @@ int main()
    string meal = "Burger Meal";
    double meal_price = 5.99;
    double tax_percent = 0.08;
-   double tax_amount = meal_price * tax_percent;
-   double total = meal_price + tax;
 
-   // Do calculations
+   // Do the calcutlations
+   double tax_amount = meal_price * tax_percent;
+   double total = meal_price + tax_amount;
+
 
    // Print the receipt
    //TODO make it line up and fix decimals
-    cout << meal << meal_price << endl;
-    cout << tax_amount << endl;
-    cout << total << endl;
+    cout << meal << "\t $" << meal_price << endl;
+    cout << endl;
+    cout << "Tax:" << "\t \t $" << tax_amount << endl;
+    cout << "Total:" << "\t \t $" << total << endl;
 
     cout << "Thank you" << endl;
 
