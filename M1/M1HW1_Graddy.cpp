@@ -9,7 +9,7 @@ int main ()
 {
     int year_released = 1994;
     double gross_sales = 1.66;
-    string movie_name = "The Lion King";
+    string movie_name = The Lion King;
 
     cout << "The movie " << movie_name << " came out in " << year_released << endl;
     cout << "and made $" << gross_sales << " billion worldwide at the box office." << endl;
