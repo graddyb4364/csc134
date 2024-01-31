@@ -25,6 +25,7 @@ int main()
     cout << "We have " << num_apples << " Apples in stock";
     cout << " at a cost of $" << price_per_apple << " each." << endl;
     cout << "For a total cost of $" << total_price << "." << endl;
+    cout << endl;
 
     return 0;
 }
