@@ -30,10 +30,10 @@ int main()
      if (areaA > areaB) {
         cout << "Rectangle is A bigger." << endl;
      }
-    else (areaA < areaB) {
+    else if (areaA < areaB) {
         cout << "Rectangle is B bigger." << endl;
      }
-    else (areaA = areaB) {
+    else if (areaA = areaB) {
         cout << "Rectangles are the same" << endl;
      }
 
