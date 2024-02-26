@@ -53,6 +53,9 @@ int main() {
         else if (roll == 7) {
             cout << "You lose..." << endl;
         }
+        else {
+            
+        }
     }
   return 0; 
 } 
